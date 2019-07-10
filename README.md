@@ -26,7 +26,7 @@ The output is:
   - The packet has been sent in X secounds 
   - Shortest Dijkstra's path (sender, receiver):
   - deque(['the path'])
-  - Visiter edges from start to end
+  - Visited edges from start to end
  
 The program also provides visualization of the network made with help of the NetworkX package in python. Examples of the output 
 graph can be found in the folder above. 
